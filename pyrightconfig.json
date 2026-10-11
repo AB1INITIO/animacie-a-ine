@@ -1,0 +1,5 @@
+{
+  "venvPath": "/opt/homebrew/opt/manim",
+  "venv": "libexec",
+  "include": ["src", "templates"]
+}

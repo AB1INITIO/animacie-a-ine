@@ -1,0 +1,6 @@
+# Manim output (renders/) and caches (build/, legacy media/)
+/renders/
+/build/
+/media/
+__pycache__/
+.DS_Store
